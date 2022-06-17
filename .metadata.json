@@ -1,0 +1,18 @@
+[
+  {
+    "package": "bootstrapFP",
+    "oncran": true
+  },
+  {
+    "package": "ConvergenceClubs",
+    "oncran": true
+  },
+  {
+    "package": "jipApprox",
+    "oncran": true
+  },
+  {
+    "package": "UPSvarApprox",
+    "oncran": true
+  }
+]
