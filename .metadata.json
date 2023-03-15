@@ -1,6 +1,10 @@
 [
   {
-    "package": "bootstrapFP",
+    "package": "jipApprox",
+    "oncran": true
+  },
+  {
+    "package": "UPSvarApprox",
     "oncran": true
   },
   {
@@ -8,11 +12,7 @@
     "oncran": true
   },
   {
-    "package": "jipApprox",
-    "oncran": true
-  },
-  {
-    "package": "UPSvarApprox",
+    "package": "bootstrapFP",
     "oncran": true
   }
 ]
