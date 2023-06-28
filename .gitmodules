@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bootstrapFP"]
 	path = bootstrapFP
 	url = https://github.com/rhobis/bootstrapfp
-	shallow = true
-	registered = true
 [submodule "ConvergenceClubs"]
 	path = ConvergenceClubs
 	url = https://github.com/rhobis/convergenceclubs
-	shallow = true
-	registered = true
 [submodule "jipApprox"]
 	path = jipApprox
 	url = https://github.com/rhobis/jipapprox
-	shallow = true
-	registered = true
 [submodule "UPSvarApprox"]
 	path = UPSvarApprox
 	url = https://github.com/rhobis/upsvarapprox
-	shallow = true
-	registered = true
