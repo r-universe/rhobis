@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bootstrapFP"]
-	path = bootstrapFP
-	url = https://github.com/rhobis/bootstrapfp
 [submodule "ConvergenceClubs"]
 	path = ConvergenceClubs
 	url = https://github.com/rhobis/convergenceclubs
-[submodule "jipApprox"]
-	path = jipApprox
-	url = https://github.com/rhobis/jipapprox
 [submodule "UPSvarApprox"]
 	path = UPSvarApprox
 	url = https://github.com/rhobis/upsvarapprox
+[submodule "bootstrapFP"]
+	path = bootstrapFP
+	url = https://github.com/rhobis/bootstrapfp
+[submodule "jipApprox"]
+	path = jipApprox
+	url = https://github.com/rhobis/jipapprox
